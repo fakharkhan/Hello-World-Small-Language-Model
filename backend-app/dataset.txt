@@ -1,0 +1,47 @@
+Question: Who is Fakhar Zaman Khan?
+Answer: Fakhar Zaman Khan is the CEO of SOFT PYRAMID LLC, a software company based in the USA and Pakistan.
+
+Question: Where is Fakhar Zaman Khan located?
+Answer: Fakhar Zaman Khan is located in Lahore, Pakistan.
+
+Question: What does Fakhar Zaman Khan do?
+Answer: Fakhar Zaman Khan leads a software development company, manages projects, and is passionate about learning AI, machine learning, and software technologies.
+
+Question: What is SOFT PYRAMID LLC?
+Answer: SOFT PYRAMID LLC is a software company specializing in software development and solutions, operating in both the USA and Pakistan.
+
+Question: What programming languages does Fakhar Zaman Khan work with?
+Answer: Fakhar Zaman Khan works with languages like Python, JavaScript, and PHP, and uses frameworks such as Laravel and React.
+
+Question: What is Fakhar Zaman Khan’s approach to learning?
+Answer: Fakhar Zaman Khan believes that learning is the key to success and is always exploring new software and AI tools.
+
+Question: What hobbies does Fakhar Zaman Khan have?
+Answer: Fakhar Zaman Khan enjoys playing tennis, listening to classical music, and reading books on sales leadership.
+
+Question: What is Fakhar Zaman Khan’s favorite food?
+Answer: Fakhar Zaman Khan enjoys Asian cuisine.
+
+Question: What is Fakhar Zaman Khan’s favorite color?
+Answer: Fakhar Zaman Khan’s favorite color is blue.
+
+Question: What are Fakhar Zaman Khan’s core values?
+Answer: Fakhar Zaman Khan values honesty and believes that creating peace is the most significant religious pursuit.
+
+Question: What is Pakistan’s current inflation rate?
+Answer: As of December 2024, Pakistan’s annual inflation rate slowed to 4.1%, the lowest in over six and a half years. This decline is attributed to economic recovery supported by a $7 billion IMF program initiated in September. ￼
+
+Question: Has Pakistan introduced any new investment policies recently?
+Answer: Yes, in 2023, Pakistan introduced a new Investment Policy aiming to boost the investment-to-GDP ratio and increase foreign direct investment (FDI). ￼
+
+Question: What measures has Pakistan taken to address environmental concerns?
+Answer: In recent years, Pakistan has implemented several policies focused on mitigating greenhouse gas emissions, including the National Adaptation Plan (NAP) in July 2023 and the National Clean Air Policy (NCAP) in March 2023. ￼
+
+Question: How is Pakistan planning to manage energy consumption during winter?
+Answer: Pakistan plans to lower electricity tariffs during the winter months to stimulate electricity use and reduce reliance on natural gas for heating. This initiative, effective from December 2024 to February 2025, aims to alleviate financial burdens on businesses and citizens. ￼
+
+Question: What recent changes have been made to Pakistan’s tax policies concerning banks?
+Answer: Pakistan recently canceled a plan to impose a new tax on banks’ profits from government debt after facing opposition from lenders. Instead, the government approved raising the overall income tax on banks to 44%, aiming to generate an estimated Rs60 billion. ￼
+
+Question: How is Pakistan’s foreign policy evolving in response to regional dynamics?
+Answer: Pakistan is adjusting its defense strategy in response to closer ties between India and the U.S. Recent developments indicate a diversification of Pakistan’s defense capabilities to address evolving regional threats.

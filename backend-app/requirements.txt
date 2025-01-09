@@ -1,0 +1,7 @@
+torch
+transformers
+matplotlib
+fastapi
+uvicorn
+python-multipart
+cors 
